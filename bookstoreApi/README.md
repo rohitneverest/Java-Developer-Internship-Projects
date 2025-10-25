@@ -83,3 +83,15 @@ POST
 Full API documentation available here
 
 https://documenter.getpostman.com/view/49541466/2sB3WjzPc7
+
+
+
+_________URLs______________________________
+
+
+
+..............SWAGGER UI...................
+#http://localhost:8084/swagger-ui/index.html
+
+..............H2 database.......
+#http://localhost:8084/h2-console
