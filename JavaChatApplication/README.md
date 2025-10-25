@@ -20,20 +20,28 @@ Java 21, JavaFX, Maven, Sockets (TCP), Base64 Encryption
 
 
 📁 ***Structure***
+
 org.chat.javachatapplication
+
 ├── client/   → JavaFX GUI & controller
+
 ├── server/   → Server & ClientHandler
+
 └── util/     → EncryptionUtil
 
 🧩 ***Commands***
+
 ***Command	Action***
 
-***/msg <user> <text>	-- Private message
-/encrypt on  --	Enables encryption
-/encrypt off	-- Disables encryption
-/quit	-- Exit chat***
+***/msg <user> <text>	-- Private message***
 
-***
+***/encrypt on  --	Enables encryption***
+
+***/encrypt off	-- Disables encryption***
+
+***/quit	-- Exit chat***
+
+
 
 ***Clients interacting***
 
