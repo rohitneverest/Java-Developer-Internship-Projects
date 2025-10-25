@@ -66,15 +66,19 @@ Tested via Postman|
 | **DELETE** | `/books/{id}` | ❌ Delete a book by ID |
 
 
+SWAGGER UI
 
 <img width="1732" height="945" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/5ed57da5-9960-4bcb-bbd4-b2f335d3eaa4" />
 
 
+GET
 
 <img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/0dc55a93-1d59-4a23-a90e-39b8a80acda6" />
+---
+POST
 
 <img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/032d9b9f-d3cf-4607-894a-ac7f42831bcf" />
-
+---
 
 Full API documentation available here
 
