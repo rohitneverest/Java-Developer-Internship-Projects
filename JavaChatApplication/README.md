@@ -32,16 +32,19 @@ Command	Action
 /encrypt off	-- Disables encryption
 /quit	-- Exit chat
 
+***
 
-
-clients interacting
+Clients interacting
 
 <img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/d48b5d1e-1b18-4039-8e0d-b9541ef1a4d4" />
 
+***
 
 Server
 
 <img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/46a5ffc8-398e-4712-97d1-74a7c663eae4" />
+
+***
 
 Logs
 
