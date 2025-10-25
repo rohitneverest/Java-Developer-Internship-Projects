@@ -33,7 +33,7 @@ org.chat.javachatapplication
 
 ***Command	Action***
 
-***/msg <user> <text>	-- Private message***
+***/msg nameOfThePersonYouWantToMsg text	-- Private message***
 
 ***/encrypt on  --	Enables encryption***
 
